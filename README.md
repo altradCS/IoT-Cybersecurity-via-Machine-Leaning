@@ -1,5 +1,5 @@
 # IoT-Cybersecurity-via-Machine-Leaning
-The outcome of this research is a paper titled "IOTs Traffics Detection and Analysis using Machine Learning for Cybersecurity Application" and published in 2023 IEEE 5th Eurasia Conference on IoT, Communication and Engineering (IEEE ECICE 2023) 
+The outcome of this project is a web application and a research paper titled "IOTs Traffics Detection and Analysis using Machine Learning for Cybersecurity Application" and published in 2023 IEEE 5th Eurasia Conference on IoT, Communication and Engineering (IEEE ECICE 2023) 
 URL: https://www.ecice.asia/
 National Formosa University, Yunlin, Taiwan - on 27-29 October 2023 Organized by:
 1. College of Engineering, National Formosa University, Yunlin, Taiwan
